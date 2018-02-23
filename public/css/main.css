@@ -1,0 +1,19 @@
+/*Couleur blanche*/
+.clw{
+	color: white ;
+}
+.simulation-zone{
+	background-color: white;
+	width: 100%;
+	height: 550px;
+}
+.result-zone{
+	width: 100%;
+	height: 500px;	
+}
+#resultForConvert{
+	height: 30px;
+}
+.center-elm{
+	text-align: center;
+}
