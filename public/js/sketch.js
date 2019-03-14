@@ -23,7 +23,7 @@ function draw() {
     }
     ellipse(mouseX , mouseY, 80, 80) ;
     */
-
+    
     draw_xy(x,y) ;
     draw_sin() ;
 }
